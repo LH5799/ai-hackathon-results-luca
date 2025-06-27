@@ -38,7 +38,7 @@ ai-hackathon-results-luca/
 │   └── predictions.csv                # Beispiel-Ergebnis csv-Datei
 ├── confusion_atrix.png                # Confusion-Matrix des trainierten Modells
 ├── training_approach.png              # Bildliche Darstellung des Training-Ansatzes
-├── approach.png              # Bildliche Darstellung des gesamten Workflows
+└── approach.png              # Bildliche Darstellung des gesamten Workflows
 ```
 Die Datei predictions.csv bietet einen guten Einblick über die vom Modell prognostizierten Posen anhand von Beispiel-Bildern.
 
