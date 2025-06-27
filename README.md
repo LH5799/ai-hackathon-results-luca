@@ -28,7 +28,7 @@ Der hier veröffentlichte Code dient somit lediglich zur Vorstellung des konzipi
 
 ## Projektstruktur
 ```text
-football-object-detection/
+ai-hackathon-results-luca/
 ├── training/                
 │   ├── image_mirror.py                # Data Augmentation
 │   ├── preprocessing_keypoints        # Keypoint Extraction
