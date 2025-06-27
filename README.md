@@ -1,5 +1,4 @@
-# Code des AI Hackathons by EintrachtTech, AWS & 
-Dieses Projekt nutzt Objekterkennung (Object Detection), um in Videosequenzen oder Bildern von Fußballspielen automatisch verschiedene Objekte wie Feldspieler, Torhüter, Schiedsrichter und den Ball zu erkennen.
+# Code des AI Hackathons by EintrachtTech, AWS & DFL
 
 ## Was war die Challenge?
 Ziel: 17 verschiedene Posen aus DFL-Medienbildern mit Hilfe von einem selbst entwickelten KI-Modell klassifizieren.
@@ -8,6 +7,7 @@ Besondere Herausforderung: sehr kleiner Datensatz von ca 200 Bildern (also nur e
 
 ## Information
 Da die Bilder leider nur im Rahmen des Hackathons benutzt werden durften, sind hier leider keine Ergebnis-Bilder darstellbar.
+Der hier veröffentlichte Code dient somit lediglich zur Vorstellung des konzipierten Workflows.
 
 ## Wie wurde die Challenge gelöst?
 ```text
